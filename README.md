@@ -1,10 +1,9 @@
 ### Olá, meu nome é Rodrigo Siqueira 👋
 
 
-- 🔭 Foco atual em  Front-End e Desktop;
-- 🌱 Atualmente aprendendo C#;
-- 👍 Trabalho com infraestrutura de Redes;
-- 🐱‍🏍 Tentando migrar de carreira para programação;
+- 🔭 Foco atual em  Middleware;
+- 🌱 Atualmente desenvolvendo e aprendendo Dataweve e Mulesoft;
+
 ##
 <div align="center">
   <a href="https://github.com/1rodrigosiqueira">
